@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Home"
+        android:title="Home" />
+    <item android:id="@+id/CurrentIncidents"
+        android:title="Current Incidents" />
+    <item android:id="@+id/PlannedRoadworks"
+        android:title="Planned Roadworks" />
+    <item android:id="@+id/findByDate"
+        android:title="Find roadworks by Date" />
+    <item android:id="@+id/findByName"
+        android:title="Find roadworks by road name" />
+    <item android:id="@+id/Exit"
+        android:title="Exit" />
+</menu>

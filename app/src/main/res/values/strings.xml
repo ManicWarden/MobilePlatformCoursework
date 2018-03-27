@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Coursework</string>
+    <string name="btnStartText">Start</string>
+    <string name="btnCurrentIncidentsStart">Find Current Incidents</string>
+    <string name="btnPlannedRoadworksStart">Find Planned Roadworks</string>
+    <string name="btnSize">20sp</string>
+    <string name="listTextSize">20sp</string>
+    <string name="btnSearch">Search</string>
+    <string name="roadInputDescription">To see if there are any planned roadworks on a given street please enter a road name below. </string>
+    <string name="searchHint">Roadname</string>
+    <string name="dateDescription">Please enter a date below to find any planned roadworks occurring in that period.</string>
+    <string name="title_activity_find_by_date">findByDate</string>
+    <string name="title_activity_find_by_roadname">findByRoadname</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="AboutText">Welcome, this application is designed to help you find traffic incidents across Scotland, both those that are happening
+                            right now and those that are scheduled to occur. Please select a button below to start.</string>
+    <string name="Instructions">To see more details about incidents or roadworks please click an item in the list.</string>
+</resources>
